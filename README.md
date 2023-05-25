@@ -196,8 +196,7 @@ knn_scored_test2 %>%
   autoplot(type = "heatmap") +
   labs(title = "KNN 2 Testing Confusion Matrix")
 ```
-<img width="252" alt="Picture3" src="https://github.com/dingy21/customer-churn-knn/assets/134649288/372037e0-e1f1-486c-a1fc-c41f1cedc580">
-<img width="252" alt="Picture4" src="https://github.com/dingy21/customer-churn-knn/assets/134649288/ff6c4eb8-0b81-4c98-a8f3-c3c69cbd21c6">
+<img width="252" alt="Picture3" src="https://github.com/dingy21/customer-churn-knn/assets/134649288/372037e0-e1f1-486c-a1fc-c41f1cedc580"><img width="252" alt="Picture4" src="https://github.com/dingy21/customer-churn-knn/assets/134649288/ff6c4eb8-0b81-4c98-a8f3-c3c69cbd21c6">
 ### Decision Tree
 ```
 tree_scored_train %>%
